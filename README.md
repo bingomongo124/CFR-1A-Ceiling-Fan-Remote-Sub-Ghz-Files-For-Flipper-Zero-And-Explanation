@@ -15,7 +15,8 @@ If Your Fan Has More/Less Than 4 Dip Switches This Remote Is Not Compatible With
 
 
 Troubleshootinng: 
---------------------------------------------------------------------------------------(For Reference "P" Stands For "Problem" And "S" Stands For "Solution")
+-------------------------------------------------------------
+(For Reference "P" Stands For "Problem" And "S" Stands For "Solution")
 
 P: Im Sending The Signals But Nothing Is Happening 
 
