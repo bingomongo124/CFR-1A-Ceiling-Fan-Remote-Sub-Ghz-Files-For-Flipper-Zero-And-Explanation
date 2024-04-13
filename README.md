@@ -18,12 +18,15 @@ Troubleshootinng:
 (For Reference "P" Stands For "Problem" And "S" Stands For "Solution")
 
 P: Im Sending The Signals But Nothing Is Happening 
+
 S: Refer To "Compatiblity Issues" And/Or "Important Notes"
 
 P: My Fan Has No Dip Switches
+
 S: Check Inside The Motor Case, If You Still Cant Find Dip Switches Then Your Fan Most Likely Uses Dynamic/Rolling Codes Or Infrared (Extremly Rare) If This IS The Case This Remote Is Not Compatible With Your Fan.
 
 P: My Question Is Not On Here
+
 S: Email Me At smithkaeden613@gmail.com And I Will Answer Any Questions You Have.
 
 
