@@ -15,12 +15,12 @@ If Your Fan Has More/Less Than 4 Dip Switches This Remote Is Not Compatible With
 
 
 Troubleshootinng: 
-(For Reference "P" Stands For "Problem" And "S" Stands For "Solution")
+--------------------------------------------------------------------------------------(For Reference "P" Stands For "Problem" And "S" Stands For "Solution")
 
 P: Im Sending The Signals But Nothing Is Happening 
 
 S: Refer To "Compatiblity Issues" And/Or "Important Notes"
------------------------------------------------------------------------------------
+
 P: My Fan Has No Dip Switches
 
 S: Check Inside The Motor Case, If You Still Cant Find Dip Switches Then Your Fan Most Likely Uses Dynamic/Rolling Codes Or Infrared (Extremly Rare) If This IS The Case This Remote Is Not Compatible With Your Fan.
