@@ -33,6 +33,7 @@ S: Email Me At smithkaeden613@gmail.com And I Will Answer Any Questions You Have
 
 
 About The Componets:
+-----------------------------------------------
 The remote is powered by One 9V Battery.
 The FCC ID: KUJCFR-1A |
 The Circut Board Model Is "JY121D" |
